@@ -16,3 +16,13 @@ The dataset contains information about the customers’ demand rate between Janu
 
 <img width="498" alt="Table II" src="https://github.com/Amiphel/Carsharing-Report-With-SQL-Queris/assets/157698401/f733bd8d-cf42-4a45-8529-60c0325d69c7">
 
+## FILES
+
+**Data set**: contains the extracted data as CarSharing Raw dataset.csv
+This was broken into 1 fact table and 3 dimension tables.
+fact table - carsharing.csv
+Dimension 1 - temperature.csv
+Dimension 2 - ttime.csv
+Dimension 3 - weather.csv
+**ER Diagram**: Entity relationship diagram showing the data model and the relationships between tables
+**Data dictionary**: explaning the data set
