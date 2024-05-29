@@ -37,8 +37,15 @@ Click 👉 [here](https://drive.google.com/drive/folders/1vvdSF904hatwQOlyxMOzBo
 
 
 ## SQL QUERIES
-1. f
-2.  f
+1. Highest demand rate in 2017 - Date and Time.
+
+2. Highest and lowest average demand throughout 2017, showing weekday, month, and season as well as the calculated average demand values.
+
+3. With reference to no. 2, what is the average demand at different hours of that weekday throughout 2017 in descending order based on the average demand.
+
+4. What was the most prevalent weather condition in 2017? What was the average, highest, and lowest wind speed and humidity for each month in 2017?  organized in two tables for the wind speed and humidity. show the average demand for each cold, mild, and hot weather in 2017 sorted in descending order based on their average demand.
+
+5.  Draw another table showing the information requested in (4) for the month with the highest average demand in 2017 for comparative purposes with other months.
 
 
 ## AUTHOR
