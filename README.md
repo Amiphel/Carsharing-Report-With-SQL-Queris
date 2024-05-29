@@ -34,3 +34,13 @@ Dimension 3 - weather.csv
 **Data dictionary**: explaning the data set
 
 Click 👉 [here](https://drive.google.com/drive/folders/1vvdSF904hatwQOlyxMOzBoKkYgbwCp4O?usp=sharing) to see these files.
+
+
+## SQL QUERIES
+1. f
+2.  f
+
+
+## AUTHOR
+
+[Amiphel H. B.](www.linkedin.com/in/amiphel-bassuo-931294220)
