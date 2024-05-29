@@ -50,4 +50,4 @@ Click 👉 [here](https://drive.google.com/drive/folders/1vvdSF904hatwQOlyxMOzBo
 
 ## AUTHOR
 
-[Amiphel H. B.](in/amiphel-bassuo-931294220)
+[Amiphel H. B.](https://www.linkedin.com/in/amiphel-bassuo-931294220/)
