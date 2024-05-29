@@ -18,7 +18,7 @@ The dataset contains information about the customers’ demand rate between Janu
 
 ## FILES
 
-**Data set**: contains the extracted data as CarSharing Raw dataset.csv
+**Data set**: contains the extracted data as CarSharing Raw dataset.csv.
 This was broken into 1 fact table and 3 dimension tables.
 
 fact table - carsharing.csv
@@ -32,3 +32,5 @@ Dimension 3 - weather.csv
 **ER Diagram**: Entity relationship diagram showing the data model and the relationships between tables
 
 **Data dictionary**: explaning the data set
+
+Click 👉 [here](https://drive.google.com/drive/folders/1vvdSF904hatwQOlyxMOzBoKkYgbwCp4O?usp=sharing) to see these files.
