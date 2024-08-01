@@ -33,6 +33,8 @@ Dimension 3 - weather.csv
 
 **Data dictionary**: explaning the data set
 
+**Carsharing quiries**: SQL queries to the questions below
+
 Click 👉 [here](https://drive.google.com/drive/folders/1vvdSF904hatwQOlyxMOzBoKkYgbwCp4O?usp=sharing) to see these files.
 
 
